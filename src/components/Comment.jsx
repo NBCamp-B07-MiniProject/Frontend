@@ -13,7 +13,6 @@ const Comment1 = styled.div`
   display: flex;
   width: 1200px;
   height: 500px;
-  background-color: blue;
-  margin-left: auto;
-  margin-right: auto;
+  background-color: #D9D9D9;
+  margin: 100px auto 100px auto;
 `;
