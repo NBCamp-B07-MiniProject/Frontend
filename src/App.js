@@ -4,7 +4,6 @@ import Card from "./components/Card";
 import Comment from "./components/Comment";
 import Header from "./components/Header";
 import TeamIntroduce from "./components/TeamIntroduce";
-import Modal from "./components/Modal";
 
 function App() {
   return (
