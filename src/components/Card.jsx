@@ -21,7 +21,7 @@ const Card = () => {
     <>
       <CardContainer>
         <Card1 onClick={() => toggleModal(박상율)}>
-          <img src={박상율} alt="박상율" />
+          <img src={박상율} alt="상율" />
         </Card1>
         <Card1 onClick={() => toggleModal(윤재훈)}>
           <img src={윤재훈} alt="윤재훈" />
