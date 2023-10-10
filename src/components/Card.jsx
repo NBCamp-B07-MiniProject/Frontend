@@ -284,22 +284,24 @@ const CardContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 95px;
+  gap: 20px;
 `;
 
 const Card1 = styled.div`
-    height: 450px;
-    width: 260px;
+    margin-bottom: 100px;
+    height: 400px;
+    width: 230px;
     background-color: #D9D9D9;
     border-radius: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
+    transform: scale(0.8);
     cursor: pointer;
     box-shadow: 3px 0px 15px #c1c1c1;
   transition: transform 0.2s ease;
   &:hover {
-    transform: scale(1.2, 1.2);
+    transform: scale(1.1, 1.1);
   }
 `;
 
