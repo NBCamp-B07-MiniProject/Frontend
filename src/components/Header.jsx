@@ -17,6 +17,8 @@ const HeaderContainer = styled.header`
   background-color: #D9D9D9;
   width: 1200px;
   height: 118px;
-  margin: 100px auto 100px auto;
+  margin: 70px auto 100px auto;
   font-size: 96px;
+  border-radius: 10px;
+  font-family: Holtwood;
 `;
